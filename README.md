@@ -1,4 +1,4 @@
-# 🛒 Supermart Grocery Sales Prediction
+# 🛒 Super Mart Grocery Sales Prediction
 
 ## 📘 Overview
 This project analyzes and predicts supermarket sales using Python and machine learning. It includes data cleaning, exploratory analysis, feature engineering and model building to uncover key retail insights and forecast sales performance.
