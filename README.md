@@ -27,7 +27,6 @@ This project analyzes and predicts supermarket sales using Python and machine le
 
 ## 📈 Key Insights
 - Strong positive correlation between category type and profitability.  
-- Discounts significantly influence profit margins.  
 - Model provides accurate sales predictions for business forecasting.
 
 ---
